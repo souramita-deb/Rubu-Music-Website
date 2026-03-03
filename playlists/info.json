@@ -1,0 +1,22 @@
+{
+  "albums": [
+    {
+      "name": "cs",
+      "title": "CS Mix",
+      "cover": "songs/cs/cover.jpeg",
+      "path": "songs/cs"
+    },
+    {
+      "name": "lo-fi",
+      "title": "Lo-Fi Beats",
+      "cover": "songs/lo-fi/cover.jpeg",
+      "path": "songs/lo-fi"
+    },
+    {
+      "name": "ncs",
+      "title": "NCS Playlist",
+      "cover": "songs/ncs/cover.jpeg",
+      "path": "songs/ncs"
+    }
+  ]
+}
