@@ -86,4 +86,6 @@ All songs and media files used in this project belong to their respective owners
 
 ---
 
-👩‍💻Built by Souramita Deb
+👩‍💻Author
+
+Souramita Deb
